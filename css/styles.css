@@ -3,16 +3,29 @@ header {
   background-color: rgb(255, 136, 173);
   padding:0.6250em 1.2500em; 
 }
+header {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 h1{
 color:aliceblue  
 }
 body {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: large;
     background: rgb(84, 161, 100);
     padding:1em;
     margin:1em;
   }
+img {
+  border: 1em solid rgb(255, 136, 173);
+  max-width: 100%;
+  height: auto;  
+ } 
+video {
+  border: 1em solid rgb(255, 136, 173);
+  max-width: 100%;
+  height: auto;  
+} 
 p, ul, li, a{
   color:rgb(0,0,0,.87);
 }
